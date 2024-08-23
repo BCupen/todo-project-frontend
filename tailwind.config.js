@@ -37,6 +37,9 @@ export default {
         "mobile-light": "url('./bg-mobile-light.jpg')",
         "mobile-dark": "url('./bg-mobile-dark.jpg')",
       },
+      fontFamily: {
+        body: ['Josefin Sans']
+      }
     },
   },
   plugins: [],
